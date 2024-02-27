@@ -1,6 +1,6 @@
 import React from 'react'
 import SearchField from './searchField/SearchField'
-import TripInfo from './tripInfo/tripInfo'
+import TripInfo from './tripInfo/TripInfo'
 
 const Main = () => {
   return (
